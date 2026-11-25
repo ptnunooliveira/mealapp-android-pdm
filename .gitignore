@@ -1,0 +1,29 @@
+# ── Ficheiros gerados pela compilação ─────────────
+build/
+*/build/
+.gradle/
+.kotlin/
+
+# ── Configuração local (específica do teu computador) ──
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ── Ficheiros compilados e assinaturas ─────────────
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.jks
+*.keystore
+
+# ── Logs ───────────────────────────────────────────
+*.log
+
+# ── Firebase ───────────────────────────────────────
+app/google-services.json
