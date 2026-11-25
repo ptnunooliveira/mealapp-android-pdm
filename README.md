@@ -144,15 +144,10 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
-**LOGIN**
-![LOGIN](screenshots/login.png)
-**HOME**
-![HOME](screenshots/home.png)
-**CATEGORIES**
-![CATEGORIES](screenshots/categories.png)
-**MEALS**
-![MEAL-LIST](screenshots/meal-list.png)
-**RECIPE**
-![MEAL-DETAIL](screenshots/meal-detail.png)
-**SURPRISE ME**
-![SURPRISE-ME](screenshots/surprise-me.png)
+| Login | Home | Categories |
+|:---:|:---:|:---:|
+| <img src="screenshots/login.png" width="250" alt="Login"> | <img src="screenshots/home.png" width="250" alt="Home"> | <img src="screenshots/categories.png" width="250" alt="Categories"> |
+
+| Meals | Recipe | Surprise me! |
+|:---:|:---:|:---:|
+| <img src="screenshots/meal-list.png" width="250" alt="Meal list"> | <img src="screenshots/meal-detail.png" width="250" alt="Recipe detail"> | <img src="screenshots/surprise-me.png" width="250" alt="Surprise me"> |
