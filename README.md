@@ -144,4 +144,9 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
-_Add screenshots of the app here (Home, Categories, Meal list, Recipe detail, Login)._
+![LOGIN](screenshots/login.png)
+![HOME](screenshots/home.png)
+![CATEGORIES](screenshots/categories.png)
+![MEAL-LIST](screenshots/meal-list.png)
+![MEAL-DETAIL](screenshots/meal-detail.png)
+![SURPRISE-ME](screenshots/surprise-me.png)
