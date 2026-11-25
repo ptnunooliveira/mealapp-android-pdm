@@ -144,9 +144,15 @@ service cloud.firestore {
 
 ## 📸 Screenshots
 
+**LOGIN**
 ![LOGIN](screenshots/login.png)
+**HOME**
 ![HOME](screenshots/home.png)
+**CATEGORIES**
 ![CATEGORIES](screenshots/categories.png)
+**MEALS**
 ![MEAL-LIST](screenshots/meal-list.png)
+**RECIPE**
 ![MEAL-DETAIL](screenshots/meal-detail.png)
+**SURPRISE ME**
 ![SURPRISE-ME](screenshots/surprise-me.png)
